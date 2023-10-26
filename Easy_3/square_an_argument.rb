@@ -27,6 +27,6 @@ end
 puts square(5) == 25
 puts square(-8) == 64
 
-puts square(2,3)
-puts square(1,10)
+puts square(2, 3)
+puts square(1, 10)
 puts square(10, 3)
